@@ -1,0 +1,4 @@
+__init__.py : blank file which is used to generate package
+
+__init__() : method which is work as constructor in oops concept.
+Which is called automatically once object of class create.

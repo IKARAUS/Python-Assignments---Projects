@@ -1,0 +1,15 @@
+Polymorphism: poly means many and morphism means forms
+	Polymorphism is derived from greek words.
+	in simple way we can say that one named method has different-different forms.
+
+	a women -> wife
+	
+		-> sister
+		-> mother
+		-> daughter
+		there are two types pf Polymorphism
+
+1) method overloading: one class can contain more than one same name methods
+note: python does not support method overloading
+
+2) method overriding: parent and child both have same name method its called method overriding.

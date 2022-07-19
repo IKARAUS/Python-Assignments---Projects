@@ -1,0 +1,21 @@
+INHERITANCE: Inheritance is a concept which is used to provide reusability.
+
+using of inheritance we can reduce our code.
+
+there are 5 types of inheritance
+
+1)Single
+Class A(Parent, Super, Base)
+|
+Class B(Child, 
+2)Multiple
+					ClassA
+classB											Class C
+3)multi-level
+Class A
+|
+Class B
+|
+Class C
+4)hiearchical
+5)hybrid

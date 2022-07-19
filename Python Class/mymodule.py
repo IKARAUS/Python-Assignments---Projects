@@ -1,0 +1,6 @@
+PRODUCT_PRICE = 56000
+
+DISCOUNT = 25
+
+def display():
+    print("WELCOME TO PYTHON")
